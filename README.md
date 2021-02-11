@@ -69,21 +69,6 @@
 <td>="2"or"2px"</td>
 <td>="lightpink"</td>
 
-	</td>
-</thed>
-</tbody>
-<tr>
-</tr>
-
-
-	
-
-	
-
-
-
-
-
-<P> Bonus! Creat a Table 
+	 Bonus! Creat a Table 
 
 	
